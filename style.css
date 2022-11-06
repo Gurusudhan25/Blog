@@ -194,19 +194,18 @@ body{
     background: linear-gradient(bottom left,blue,aliceblue);
 } */
 
-@media screen and (max-width:1000px) {
-
-.card
-{
-    padding: 0%;
-    background-color: white;
-    margin-top: 30px;
-    margin-left: 20px;
-    width:450px;
-    height: 400px;
-}
-.h-custom{
-    height:398px ;
-    width:150px;
-}
-  }
+@media screen and (min-width:800px) {
+    .card
+    {
+        padding: 0%;
+        background-color: white;
+        margin-top: 30px;
+        margin-left: 40px;
+        width:450px;
+        height: 400px;
+    }
+    .h-custom{
+        height:398px ;
+        width:150px;
+    }
+      }
