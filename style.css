@@ -194,7 +194,7 @@ body{
     background: linear-gradient(bottom left,blue,aliceblue);
 } */
 
-@media screen and (max-width:1200px) {
+@media screen and (max-width:1500px) {
     body{
         height: 626px;
     }
