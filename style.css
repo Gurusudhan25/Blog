@@ -194,7 +194,7 @@ body{
     background: linear-gradient(bottom left,blue,aliceblue);
 } */
 
-@media screen and (min-width:800px) {
+/* @media screen and (min-width:800px) {
     .card
     {
         padding: 0%;
@@ -208,4 +208,4 @@ body{
         height:398px ;
         width:150px;
     }
-      }
+      } */
