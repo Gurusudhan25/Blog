@@ -187,6 +187,10 @@ body{
     /* background: -webkit-linear-gradient(bottom left,grey,aliceblue); */
 
 }
+.card-text
+{
+    font-size: medium;
+}
 .h-custom{
     height:298px ;
 }
